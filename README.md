@@ -41,22 +41,42 @@ Results
 
 
 Snagit of the Output
+
 --EPOCH 1:
+
 Loss:     	 MNIST: 0.2497 	 SUM: 0.1919 	 TOTAL: 0.4416
-Accuracy: 	 MNIST: %92.15 	 SUM: %19.19 	 TOTAL: %55.67
+
+Accuracy: 	 <b>MNIST: %92.15</b> 	 <b>SUM: %19.19</b> 	 TOTAL: %55.67
+
 HBox(children=(FloatProgress(value=0.0, max=469.0), HTML(value='')))
+
 --EPOCH 2:
+
 Loss:     	 MNIST: 0.0961 	 SUM: 0.6317 	 TOTAL: 0.7278
-Accuracy: 	 MNIST: %97.9 	 SUM: %63.17 	 TOTAL: %80.53
+
+Accuracy: 	 <b>MNIST: %97.9</b> 	 <b>SUM: %63.17</b> 	 TOTAL: %80.53
+
 HBox(children=(FloatProgress(value=0.0, max=469.0), HTML(value='')))
+
 --EPOCH 3:
+
 Loss:     	 MNIST: 0.0778 	 SUM: 0.9133 	 TOTAL: 0.9911
-Accuracy: 	 MNIST: %98.43 	 SUM: %91.33 	 TOTAL: %94.88
+
+Accuracy: 	 <b>MNIST: %98.43 	 SUM: %91.33</b> 	 TOTAL: %94.88
+
 HBox(children=(FloatProgress(value=0.0, max=469.0), HTML(value='')))
+
 --EPOCH 4:
+
 Loss:     	 MNIST: 0.0539 	 SUM: 0.9863 	 TOTAL: 1.0402
-Accuracy: 	 MNIST: %98.82 	 SUM: %98.63 	 TOTAL: %98.72
+
+Accuracy: 	 <b>MNIST: %98.82 	 SUM: %98.63</b> 	 TOTAL: %98.72
+
 HBox(children=(FloatProgress(value=0.0, max=469.0), HTML(value='')))
+
 --EPOCH 5:
+
 Loss:     	 MNIST: 0.0533 	 SUM: 0.9927 	 TOTAL: 1.046
-Accuracy: 	 MNIST: %98.92 	 SUM: %99.27 	 TOTAL: %99.09
+
+Accuracy: 	 <b>MNIST: %98.92 	 SUM: %99.27</b> 	 TOTAL: %99.09
+
